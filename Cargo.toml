@@ -1,0 +1,8 @@
+[package]
+name = "rocket-rs-wasm"
+version = "0.1.0"
+authors = ["BlockCat <zinoonomiwo@gmail.com>"]
+
+[dependencies]
+quicksilver = "*"
+rand = "0.5.5"
